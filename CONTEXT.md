@@ -31,6 +31,13 @@ _As of 2026-07-06:_
 - **LMTBC holding vessel:** Lyttelton MTB Club Inc (a separate, already-incorporated club) is being used as an interim signup vessel ahead of PHTC's incorporation. This is orthogonal to the formation-path choice. People who join now transfer into PHTC once it exists, whichever path forms it.
 - **LMTBC SGM:** called for Thu 16 July 2026, 7pm, Eruption Brewing. Two motions: (1) establish a $25/yr non-voting "Supporting Rider" membership class via Hivepass, alongside the existing $20 lifetime voting membership; (2) statement of intent to affiliate with PHTC once PHTC is formally established (intent only, no funds committed). Supporting Riders carry forward into PHTC's own supporting-rider class.
 
+## Web & tooling infrastructure
+- **Domain:** phtc.org.nz, registered via Dynadot, under Josh's personal account.
+- **Hosting:** Cloudflare Pages, free tier, same personal account. Static site, deploys from `phtc-site` (private repo).
+- **Email routing:** Cloudflare Email Routing (free), enabled on phtc.org.nz. Catch-all plus an explicit rule for contact@phtc.org.nz, forwarding to Josh's personal inbox. Receive-only, cannot send as contact@ (Cloudflare limitation). Sending upgrade path if needed later: Zoho Mail free tier.
+- **Contact form:** native HTML form on the site, backend via Formspree free tier (Josh's account). Free tier = single recipient inbox, 50 submissions/month cap, no field-based routing yet. Formspree notification emails come from Formspree's own infrastructure, not contact@phtc.org.nz; the subject line carries an identifier instead. Form captures: name, email, phone, preferred contact method, topic, zone/track, message, dig-day contact consent (explicit opt-in, separate from general submission).
+- **Membership platform:** Hivepass, org account fully set up. Josh is account admin; two other club officers have signed the organization Terms of Service agreement (see private notes for names). Non-members tracked via Hivepass "Follower" / "Contact" statuses (confirmed no custom-field support beyond fixed schema, see CSV import fields). Two-layer data model: Hivepass holds identity/membership fields; PHTC-specific data (zone interest, source, dig-day consent) lives in the Formspree submission log / a Sheet, not in Hivepass.
+
 ## Artifacts
 | Artifact | Status | Canonical location |
 |---|---|---|
@@ -43,8 +50,11 @@ _As of 2026-07-06:_
 - Volunteer management and contact capture: needed, not yet designed. The "How can I help" menu item is interim and points to the Get-in-touch section.
 - Constitution v1.8 / Bylaws v1.1: finalizing. Full drafts in the private `phtc-drafts` repo.
 - Formation path (transform CMBC vs fresh incorporate) undecided, pending due diligence.
+- Formspree routing is manual (Josh forwards Malcolm's track-related submissions by hand). Rules-based auto-routing (track concerns to Malcolm, org/constitution to Josh) is a planned upgrade, not yet built.
+- Sending email as contact@phtc.org.nz not yet set up (currently receive/forward only).
 
 ## Changelog
 - 2026-07-06 — Claude Code: created this repo; seeded CONTEXT.md and narrative.md; constitution and bylaws as placeholders.
 - 2026-07-06 — browser Claude: corrected formation to two-path (transform CMBC OR fresh incorporate); added LMTBC holding-vessel mechanism and 16 July SGM. Flagged that prior text presented transformation as settled.
 - 2026-07-06 — Claude Code: constitution to v1.8, bylaws to v1.1. Full annotated drafts moved to a new PRIVATE repo `phtc-drafts` (they carry internal legal-review flags and named incoming officers); public constitution.md / bylaws.md here are now pointers.
+- 2026-07-06 — browser Claude: logged web/tooling infrastructure (domain, hosting, email routing, contact form, Hivepass setup and admin/signatory status). Claude Code generalized the personal Gmail address to "Josh's personal account" per the no-personal-contact-details policy; the actual address is recorded in private memory only.
