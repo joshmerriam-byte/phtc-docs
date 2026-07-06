@@ -24,8 +24,8 @@ Keep this file to **notable points**, not full transcripts. Whoever edits, add a
 _As of 2026-07-06:_
 - **Website:** live at https://phtc.org.nz. Cloudflare Pages, auto-deploys on push to the private `phtc-site` repo. Pages: home + founding narrative.
 - **Founding narrative:** live on the site, marked "Draft for review". Canonical text mirrored in `narrative.md` (this repo).
-- **Constitution:** draft **v1.7** being finalized (Google Doc, comments enabled, linked from the website). Text not yet mirrored here.
-- **Bylaws:** not yet drafted.
+- **Constitution:** draft **v1.8** (2026-07-04), being finalized. Full annotated text lives in the private `phtc-drafts` repo; public `constitution.md` here is a pointer only.
+- **Bylaws:** draft **v1.1** (2026-07-03), revised to match Constitution v1.8. Full text in the private `phtc-drafts` repo; public `bylaws.md` here is a pointer only.
 - **Home page menu:** hamburger with How can I help, Log volunteer hours (Google Form), Contact (email), Donate (placeholder; Hivepass memberships open 16 July 2026).
 - **Formation:** two candidate paths (see conventions above): transform CMBC, or fresh incorporation. Not yet decided.
 - **LMTBC holding vessel:** Lyttelton MTB Club Inc (a separate, already-incorporated club) is being used as an interim signup vessel ahead of PHTC's incorporation. This is orthogonal to the formation-path choice. People who join now transfer into PHTC once it exists, whichever path forms it.
@@ -36,14 +36,15 @@ _As of 2026-07-06:_
 |---|---|---|
 | Website | Live | https://phtc.org.nz ; private repo `phtc-site` |
 | Founding narrative | Live draft | `narrative.md` (here) + on the site |
-| Constitution | Draft v1.7, finalizing | Google Doc (linked from the website) |
-| Bylaws | Not started | — |
+| Constitution | Draft v1.8, finalizing | private `phtc-drafts` repo + Google Doc |
+| Bylaws | Draft v1.1, finalizing | private `phtc-drafts` repo |
 
 ## Open questions / in flight
 - Volunteer management and contact capture: needed, not yet designed. The "How can I help" menu item is interim and points to the Get-in-touch section.
-- Constitution v1.7: finalizing. Once stable, paste the text into `constitution.md` so both Claudes work from the same words.
+- Constitution v1.8 / Bylaws v1.1: finalizing. Full drafts in the private `phtc-drafts` repo.
 - Formation path (transform CMBC vs fresh incorporate) undecided, pending due diligence.
 
 ## Changelog
 - 2026-07-06 — Claude Code: created this repo; seeded CONTEXT.md and narrative.md; constitution and bylaws as placeholders.
 - 2026-07-06 — browser Claude: corrected formation to two-path (transform CMBC OR fresh incorporate); added LMTBC holding-vessel mechanism and 16 July SGM. Flagged that prior text presented transformation as settled.
+- 2026-07-06 — Claude Code: constitution to v1.8, bylaws to v1.1. Full annotated drafts moved to a new PRIVATE repo `phtc-drafts` (they carry internal legal-review flags and named incoming officers); public constitution.md / bylaws.md here are now pointers.

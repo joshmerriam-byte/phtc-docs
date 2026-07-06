@@ -1,9 +1,9 @@
 # Constitution
 
-**Status: draft v1.7, being finalized.**
+**Status: draft v1.8 (2026-07-04), being finalized.**
 
-The working draft lives in a Google Doc (comments enabled), linked from the website's "Read the draft constitution" action.
+The full working draft is kept in the **private `phtc-drafts` repo** — it carries pre-adoption legal-review annotations that should not be public — and in a Google Doc linked from the website's "Read the draft constitution" action.
 
-This file is a placeholder. Once v1.7 is stable, paste the text here so both Claude workspaces wordsmith from the same words and changes can be tracked in git.
+This public file is a pointer, not the text. Both Claude workspaces work from the private draft; browser Claude reads it via the GitHub connector or by paste.
 
-_Reminder of conventions (see CONTEXT.md): name is "Port Hills Trails Collective" (plural); no "Incorporated" in public copy yet; US spelling; no em-dashes._
+_Conventions (see CONTEXT.md): name is "Port Hills Trails Collective" (plural); no "Incorporated" in public copy yet; US spelling; no em-dashes._
