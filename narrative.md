@@ -1,4 +1,4 @@
-# Founding Narrative & Statement of Principles
+# Founding Narrative & Statement of Guiding Principles
 
 **Port Hills Trails Collective**
 
@@ -34,7 +34,7 @@ We also keep the record. A steward works their zone and does what they can. Stew
 
 We don't run the trails. The people already doing the work do. This is the line the whole Society is built around: we resource and connect the work, we don't take it over. Your zone is yours. What falls between the zones is ours to recognize, and see to.
 
-Five principles follow from all of this. Read them and you understand the rest.
+Five guiding principles follow from all of this. Read them and you understand the rest.
 
 **01 Support the work that's already happening.**
 The people doing the work keep doing it, their way. The Society resources and connects them. It does not run them.

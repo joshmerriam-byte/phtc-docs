@@ -58,3 +58,4 @@ _As of 2026-07-06:_
 - 2026-07-06 — browser Claude: corrected formation to two-path (transform CMBC OR fresh incorporate); added LMTBC holding-vessel mechanism and 16 July SGM. Flagged that prior text presented transformation as settled.
 - 2026-07-06 — Claude Code: constitution to v1.8, bylaws to v1.1. Full annotated drafts moved to a new PRIVATE repo `phtc-drafts` (they carry internal legal-review flags and named incoming officers); public constitution.md / bylaws.md here are now pointers.
 - 2026-07-06 — browser Claude: logged web/tooling infrastructure (domain, hosting, email routing, contact form, Hivepass setup and admin/signatory status). Claude Code generalized the personal Gmail address to "Josh's personal account" per the no-personal-contact-details policy; the actual address is recorded in private memory only.
+- 2026-07-06 — Claude Code: narrative.md synced with the live site; added "guiding" to principles in the title and transition line.
