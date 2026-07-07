@@ -11,8 +11,8 @@ Start with **[CONTEXT.md](CONTEXT.md)** — the curated list of notable points b
 | File | What it holds |
 |---|---|
 | `CONTEXT.md` | Shared status, conventions, open questions, decision log |
-| `narrative.md` | Canonical founding narrative & principles (also live on the site) |
-| `constitution.md` | Constitution text (placeholder until v1.7 is stable) |
-| `bylaws.md` | Bylaws text (not yet drafted) |
+| `narrative.md` | Canonical founding narrative & guiding principles (also live on the site) |
+| `constitution.md` | Constitution text, draft v1.9 |
+| `bylaws.md` | Bylaws text, draft v1.2 |
 
 **Public repo:** no personal contact details, steward emails, or internal people-strategy here. Those stay in Claude Code's private memory.
