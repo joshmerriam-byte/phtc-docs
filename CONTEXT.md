@@ -26,7 +26,9 @@ _As of 2026-07-06:_
 - **Founding narrative:** live on the site, marked "Draft for review". Canonical text mirrored in `narrative.md` (this repo).
 - **Constitution:** draft **v1.8** (2026-07-04), being finalized. Full annotated text lives in the private `phtc-drafts` repo; public `constitution.md` here is a pointer only.
 - **Bylaws:** draft **v1.1** (2026-07-03), revised to match Constitution v1.8. Full text in the private `phtc-drafts` repo; public `bylaws.md` here is a pointer only.
-- **Home page menu:** hamburger with How can I help, Log volunteer hours (Google Form), Get in touch (form + email fallback), Donate (live: Hivepass Supporting Rider signup, activated 2026-07-16).
+- **Home page menu:** hamburger with Get in touch (form + email fallback), Log volunteer hours (Google Form), Contact form (#contact), Donate (live: Hivepass Supporting Rider signup).
+- **Hivepass link:** use the dynamic smart-link go.hivepass.app/TxiS (generated from the Hivepass QR feature after uploading a club logo). This opens the Hivepass app for members who have it installed, else falls back to browser. Do NOT use join.hivepass.app/lmtbc (app doesn't claim that domain, always went to browser). Testing established the app only routes via go.hivepass.app / member.hivepass.app; join.* and org-path URLs failed.
+- **LMTBC logo:** simple green rounded-square badge (wheel + Port Hills ridgeline + "Lyttelton Mountain Bike Club" wordmark, amber accents), created as a temporary mark to unblock the Hivepass logo upload. Source SVG + 1024px PNG in C:\Claude\lmtbc-logo\ (not committed to a repo).
 - **Public contact address:** contact@phtc.org.nz (shown on the site's Get in touch fallback link). Currently forwards to Josh; can be silently repointed to another address or multiple people on the back end without a site change. Replaces the earlier personal-email fallback.
 - **Formation:** two candidate paths (see conventions above): transform CMBC, or fresh incorporation. Not yet decided.
 - **LMTBC holding vessel:** Lyttelton MTB Club Inc (a separate, already-incorporated club) is being used as an interim signup vessel ahead of PHTC's incorporation. This is orthogonal to the formation-path choice. People who join now transfer into PHTC once it exists, whichever path forms it.
@@ -62,3 +64,4 @@ _As of 2026-07-06:_
 - 2026-07-06 — Claude Code: narrative.md synced with the live site; added "guiding" to principles in the title and transition line.
 - 2026-07-06 — Claude Code: site's email fallback switched from Josh's personal address to contact@phtc.org.nz (forwards to Josh, repointable on the back end without a site change).
 - 2026-07-16 — Claude Code: activated the Donate link (menu) to the live Hivepass membership signup, join.hivepass.app/lmtbc. All site placeholders now wired.
+- 2026-07-16 — Claude Code: made a temporary LMTBC logo, uploaded to Hivepass to unblock the QR feature; swapped Donate to the resulting dynamic smart-link go.hivepass.app/TxiS (opens the app if installed, else browser). Removed the deep-link test scaffolding.
