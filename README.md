@@ -2,17 +2,23 @@
 
 Shared context and canonical document text for the **Port Hills Trails Collective (PHTC)**.
 
-This repo is the handoff point between two Claude workspaces Josh uses:
-- **Claude Code** — website design and deployment (the separate private `phtc-site` repo).
-- **Browser Claude** — brainstorming and wordsmithing the documents.
+This is the single document repo. It replaces the earlier split between `phtc-docs` and `phtc-drafts`. Git is the source of truth for document text. Google Docs are for circulation and comment only, exported *from* here, never edited as the master copy.
 
-Start with **[CONTEXT.md](CONTEXT.md)** — the curated list of notable points both should stay synced on, plus the naming and style conventions for all PHTC copy.
+Start with **[CONTEXT.md](CONTEXT.md)** — the curated list of notable points to stay synced on, plus the naming and style conventions for all PHTC copy.
 
-| File | What it holds |
-|---|---|
-| `CONTEXT.md` | Shared status, conventions, open questions, decision log |
-| `narrative.md` | Canonical founding narrative & principles (also live on the site) |
-| `constitution.md` | Constitution text (placeholder until v1.7 is stable) |
-| `bylaws.md` | Bylaws text (not yet drafted) |
+| File | What it holds | Version |
+|---|---|---|
+| `CONTEXT.md` | Shared status, conventions, open questions, decision log | living |
+| `narrative.md` | Founding narrative and guiding principles (also live on the site) | draft for review |
+| `constitution.md` | Full constitution text | v1.9 (2026-07-07) |
+| `bylaws.md` | Full bylaws text | v1.2 |
 
-**Public repo:** no personal contact details, steward emails, or internal people-strategy here. Those stay in Claude Code's private memory.
+## Working conventions
+
+- **Spelling is split by document.** `constitution.md` and `bylaws.md` use British/NZ spelling (organisation, authorised, recognised) because they are New Zealand legal instruments. `narrative.md` and `CONTEXT.md` use American spelling.
+- **Annotations in the governing documents** are deliberate and stay until resolved: `[Flag for Simon]` marks questions for legal review, `[CMBC-TIED]` marks clauses that toggle on the CMBC transformation decision.
+- **Two Claude workspaces use this repo.** Claude Code reads and writes it directly. Browser Claude reads it by URL and cannot commit, so its changes come back as labelled replacement blocks to be committed here.
+
+## Companion repo
+
+- **`phtc-site`** (private) — the deployable website at phtc.org.nz.
