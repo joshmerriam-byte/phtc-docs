@@ -21,11 +21,16 @@ Keep this file to **notable points**, not full transcripts. Whoever edits, add a
 - "Society" is used in the founding narrative to mean the intended entity; acceptable in that forward-looking document.
 
 ## Current status
-_As of 2026-07-06:_
+_As of 2026-07-16:_
 - **Website:** live at https://phtc.org.nz. Cloudflare Pages, auto-deploys on push to the private `phtc-site` repo. Pages: home + founding narrative.
 - **Founding narrative:** live on the site, marked "Draft for review". Canonical text mirrored in `narrative.md` (this repo).
-- **Constitution:** draft **v1.8** (2026-07-04), being finalized. Full annotated text lives in the private `phtc-drafts` repo; public `constitution.md` here is a pointer only.
-- **Bylaws:** draft **v1.1** (2026-07-03), revised to match Constitution v1.8. Full text in the private `phtc-drafts` repo; public `bylaws.md` here is a pointer only.
+- **Constitution:** draft **v1.9** (2026-07-07), being finalized. Full text now lives in this repo (`constitution.md`), not a pointer. `phtc-drafts` is retired; see Repo structure below.
+- **Bylaws:** draft **v1.2**, revised to match Constitution v1.9. Full text in this repo (`bylaws.md`), not a pointer.
+- **Repo structure:** `phtc-docs` is now the single document repo (context, narrative, constitution, bylaws). The former private `phtc-drafts` repo is retired; delete once confirmed nothing was lost. Git is the source of truth for document text. Google Docs are for circulation and comment only, exported from here, never edited as the master copy.
+- **Dig Otautahi (DOT):** as of v1.9, no DOT-specific provisions (preferred-partner language, named conflict-of-interest clauses) exist anywhere in the constitution, bylaws, or narrative. Any such text either never made it out of an earlier draft or lives only in a version not yet recovered. If it resurfaces, it needs the same review this change list gave everything else, not a silent re-add.
+- **No-surprises commitment:** added to constitution 3.5 and the narrative's closing commitment: Society-organized trail work is agreed with the land manager before it starts and delivered as described. This "No Surprises" policy formalizes the same understanding the Vic Park committee and Dig Otautahi already operate under.
+- **CMBC AGM:** the meeting where CMBC members vote on the transformation into PHTC is set for **7 September 2026**.
+- **Amendment threshold (transformation vote):** CMBC's own constitution requires a simple majority to approve adopting the new PHTC constitution, pending legal confirmation. This is separate from PHTC's own constitution, which requires a 75% Special Resolution for future amendments (clause 14) once adopted.
 - **Home page menu:** hamburger with Get in touch (form + email fallback), Log volunteer hours (Google Form), Contact form (#contact), Donate (live: Hivepass Supporting Rider signup).
 - **Hivepass link:** use the dynamic smart-link go.hivepass.app/TxiS (generated from the Hivepass QR feature after uploading a club logo). This opens the Hivepass app for members who have it installed, else falls back to browser. Do NOT use join.hivepass.app/lmtbc (app doesn't claim that domain, always went to browser). Testing established the app only routes via go.hivepass.app / member.hivepass.app; join.* and org-path URLs failed.
 - **LMTBC logo:** simple green rounded-square badge (wheel + Port Hills ridgeline + "Lyttelton Mountain Bike Club" wordmark, amber accents), created as a temporary mark to unblock the Hivepass logo upload. Source SVG + 1024px PNG in C:\Claude\lmtbc-logo\ (not committed to a repo).
@@ -46,15 +51,18 @@ _As of 2026-07-06:_
 |---|---|---|
 | Website | Live | https://phtc.org.nz ; private repo `phtc-site` |
 | Founding narrative | Live draft | `narrative.md` (here) + on the site |
-| Constitution | Draft v1.8, finalizing | private `phtc-drafts` repo + Google Doc |
-| Bylaws | Draft v1.1, finalizing | private `phtc-drafts` repo |
+| Constitution | Draft v1.9, finalizing | `constitution.md` (here) + Google Doc for circulation |
+| Bylaws | Draft v1.2, finalizing | `bylaws.md` (here) |
 
 ## Open questions / in flight
 - Volunteer management and contact capture: needed, not yet designed. The "How can I help" menu item is interim and points to the Get-in-touch section.
-- Constitution v1.8 / Bylaws v1.1: finalizing. Full drafts in the private `phtc-drafts` repo.
-- Formation path (transform CMBC vs fresh incorporate) undecided, pending due diligence.
+- Constitution v1.9 / Bylaws v1.2: finalizing.
+- Formation path (transform CMBC vs fresh incorporate) undecided, pending due diligence. CMBC AGM to vote on the transform path set for 7 September 2026.
 - Formspree routing is manual (Josh forwards Malcolm's track-related submissions by hand). Rules-based auto-routing (track concerns to Malcolm, org/constitution to Josh) is a planned upgrade, not yet built.
 - Sending email as contact@phtc.org.nz not yet set up (currently receive/forward only).
+- Purpose clauses (constitution 3.2): softened language for "voice for riders and stewards, not sole representative" is drafted but not yet placed. Needs a decision on whether it becomes a new purpose clause 3.2(f) or replaces existing wording, since no current clause actually overclaims construction or sole-representative status.
+- Schedule 1 (Founding Members) is still an empty placeholder. The Vic Park / Gravity Canterbury / Zone 15 steward-seat split described in an earlier change list can't be applied until Schedule 1 has real entries to split.
+- Schedule 2 (land manager and community contacts) does not exist in the current constitution. Adding named individuals (e.g., CCC rangers, community supporters) needs their confirmation before anything is committed to a public repo, and needs the schedule to exist first.
 
 ## Changelog
 - 2026-07-06 — Claude Code: created this repo; seeded CONTEXT.md and narrative.md; constitution and bylaws as placeholders.
@@ -65,3 +73,4 @@ _As of 2026-07-06:_
 - 2026-07-06 — Claude Code: site's email fallback switched from Josh's personal address to contact@phtc.org.nz (forwards to Josh, repointable on the back end without a site change).
 - 2026-07-16 — Claude Code: activated the Donate link (menu) to the live Hivepass membership signup, join.hivepass.app/lmtbc. All site placeholders now wired.
 - 2026-07-16 — Claude Code: made a temporary LMTBC logo, uploaded to Hivepass to unblock the QR feature; swapped Donate to the resulting dynamic smart-link go.hivepass.app/TxiS (opens the app if installed, else browser). Removed the deep-link test scaffolding.
+- 2026-07-16 — Claude Code: consolidated `phtc-drafts` into `phtc-docs`. Brought in full constitution v1.9 and bylaws v1.2 (recovered from a Google Docs export, since the versions had drifted out of git via an earlier browser-Claude session that had no way to commit). Applied a reviewed change list: added the no-surprises clause to constitution 3.5 and the narrative, added an explicit land-manager-decides clause (5.1), confirmed the franchise-reservation and uniform-steward-lapse items were already resolved in v1.9, narrowed narrative overclaims from "the whole network" to "riders and stewards," and updated Principle 01. Dropped the DOT-removal item as a no-op (no DOT-specific text found anywhere). Purpose-clause softening, Schedule 1 Vic Park split, and Schedule 2 names remain open, see Open questions.
