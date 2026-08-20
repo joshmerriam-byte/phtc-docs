@@ -91,9 +91,11 @@ The Society conducts its trail work on authorised trails, with the permission of
 
 The Society does not organise, direct, or fund the construction of new unauthorised trails. The Society's recognition by land managers depends on this, without exception.
 
-Where unauthorised or unmapped trails already exist and are being ridden and maintained by the community, the Society's job is to work with the landowners to bring suitable trails into the sanctioned network where appropriate, rather than pretend they don't exist or police anyone.
+Where unauthorised or unmapped trails already exist and are being ridden and maintained by the community, the Society's role is to work with the landowners to bring the good ones onto the map, rather than pretend they don't exist or police anyone.
 
 Nothing in this Constitution requires a member to account for, or to renounce, trail use or trail work undertaken in their own private capacity outside Society activity. The Society governs its own conduct as an organisation; it does not govern the private recreational choices of its members.
+
+Where the Society organises or coordinates trail work, it operates on a no-surprises basis with the relevant land manager: work is discussed and agreed before it begins, and delivered as described.
 
 ### 3.6 Capacity and Powers
 The Society has full capacity to carry on any activity, do any act, or enter into any transaction, subject to this Constitution, the Act, the Charities Act, and the general law. The Society shall not borrow money without a Special Resolution of the voting membership.
