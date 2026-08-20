@@ -153,6 +153,8 @@ The Committee maintains an up-to-date register of all members including name, co
 ### 5.1 Governance Principle
 The Council of Stewards sets the direction and priorities of the Society. The Committee is bound to give effect to Council of Stewards decisions in good faith. Where the Committee considers it cannot or should not implement a Council decision, including where doing so would conflict with the Committee's legal duties, the Society's financial position, or an urgent operational need, the Committee may act as those duties or needs require, but must record its reasons in writing and report them to the Council of Stewards and all voting members at the earliest opportunity, and no later than the next Council of Stewards meeting.
 
+Where the Council of Stewards makes recommendations about trail work or priorities on land managed by Christchurch City Council, the Department of Conservation, or another land manager, those are recommendations only. Decisions about the network rest with the land manager, who weighs the interests of all user groups.
+
 ### 5.2 AGM
 An AGM must be held once a year, within 6 months of the balance date and not more than 15 months after the previous AGM, with at least 21 days notice. The AGM is also a meeting of the Council of Stewards. It transacts: confirmation of previous minutes; the annual report, financial statements, and reviewer's report; disclosure of conflicts of interest; election of the Chair, Secretary, and Treasurer, and confirmation of the Public Representative; confirmation of steward seat holders; setting of dues; constitutional amendments; and any other business properly submitted at least 10 days in advance.
 
