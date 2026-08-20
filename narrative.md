@@ -53,4 +53,4 @@ Attention flows to the big active zones. Left alone, that entrenches. The Societ
 
 ## And one commitment underneath all five
 
-Our standing with the landowners is the foundation of everything here. We work only on sanctioned trails. We keep that trust, because without it none of the rest is possible.
+Our standing with the landowners is the foundation of everything here. We work only on sanctioned trails, and the work we organize is agreed with the land manager before it starts and done as described: no surprises. We keep that trust, because without it none of the rest is possible.
