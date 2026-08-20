@@ -37,7 +37,7 @@ We don't run the trails. The people already doing the work do. This is the line 
 Five guiding principles follow from all of this. Read them and you understand the rest.
 
 **01 Support the work that's already happening.**
-The people doing the work keep doing it, their way. The Society resources and connects them. It does not run them.
+The people already doing the work keep doing it. We take on the coordination with the land manager, so the work is agreed and above-board, and the steward isn't left to sort that out alone.
 
 **02 Take on the friction, don't add it.**
 The Society absorbs the paperwork, the grant writing, the landowner liaison, and the meetings wherever we can. A volunteer who stepped up to fix trails shouldn't have to face new administrative burden.
