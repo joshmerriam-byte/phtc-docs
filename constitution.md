@@ -1,6 +1,6 @@
 # Port Hills Trails Collective Incorporated — Constitution
 
-**DRAFT v1.9 — 2026-07-07 — NOT FINALIZED.** Pending legal review and the 27 July financials decision on the CMBC transformation path. Clauses marked `[CMBC-TIED]` are provisional and toggle on that decision.
+**DRAFT v1.10 — 2026-08-27 — NOT FINALIZED.** Pending legal review and the 27 July financials decision on the CMBC transformation path. Clauses marked `[CMBC-TIED]` are provisional and toggle on that decision.
 
 ---
 
@@ -66,15 +66,21 @@ This Constitution should be read and applied in light of that purpose.
 ### 3.2 Charitable Purposes
 The Society's purposes are charitable and for the public benefit. In furtherance of that public benefit, the Society's purposes are to:
 
-(a) Support and coordinate the volunteer stewardship of publicly accessible trails across the Port Hills and Canterbury region, so the network is maintained and kept safe, well cared for, and open to the community, including riders, walkers, runners, and other members of the public;
+(a) Support and coordinate the volunteer stewardship of publicly accessible trails across the Port Hills and Canterbury region, so the network is maintained and kept safe, well cared for, and open to the community, including riders, walkers, runners, and other members of the public, including by obtaining and distributing funding for that coordination and for shared network infrastructure;
 
 (b) Advance community wellbeing by coordinating the volunteer stewardship of public recreational infrastructure, so that free-to-access trails remain safe, well-maintained, and welcoming to all users;
 
-(c) Advance environmental stewardship of the Port Hills by supporting sustainable trail management, drainage, erosion control, and restoration of native vegetation alongside trail corridors;
+(c) Advance environmental stewardship of the Port Hills by supporting and coordinating those who carry out sustainable trail management, drainage, erosion control, and restoration of native vegetation alongside trail corridors;
 
 (d) Promote the sport and recreation of MTB riding and trail use across the Canterbury region, as an ancillary purpose in support of the above charitable purposes and not as an independent purpose in its own right;
 
-(e) Do anything necessary or incidental to the above purposes.
+(e) Preserve the institutional knowledge of trail stewardship across the network, including the record of volunteer work done and the local knowledge a steward accumulates, so that it is not lost when a steward steps back;
+
+(f) Seek recognition as a coordinated voice for mountain bike riders and the volunteers who steward the trails, so that their perspective is available to land managers and other decision-makers, while recognising that decisions about the network rest with the land manager and that other organisations retain their own standing to speak for those they represent; `[Flag for Josh - the source wording for this clause was truncated in the change list. Completed here to match the founding narrative and clause 5.1. Confirm before circulation.]`
+
+(g) Do anything necessary or incidental to the above purposes.
+
+The Society coordinates and supports the people and organisations who build and maintain trails. Building and maintaining trails is not a function the Society undertakes in its own right.
 
 The Society does not organise competitive racing events.
 
@@ -263,6 +269,9 @@ The Council of Stewards sets network priorities each year from a scored capital 
 
 ### 11.4 Zone Equity
 The Society has a duty to notice when a zone is consistently passed over by the scoring system, to surface it openly to the Council of Stewards, and to decide consciously whether it needs attention. Active zones with strong, ready projects are not penalised for being active. The purpose is to prevent the scoring from running on autopilot and entrenching the same outcomes. The mechanism for monitoring and surfacing zone equity is set out in the Bylaws and reviewed annually. The Committee may not adopt Bylaws that eliminate or substantially undermine this duty.
+
+### 11.5 Service Agreements with Trail-Building Partners
+The Society may enter into service agreements with trail-building partners covering project allocation, equipment access, and any staffing arrangements. Any such partner operates independently and is not governed by or subordinate to the Society. The terms of each agreement are negotiated as between peers.
 
 ## 12. Dispute Resolution
 
