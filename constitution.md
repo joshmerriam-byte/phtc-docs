@@ -76,11 +76,11 @@ The Society's purposes are charitable and for the public benefit. In furtherance
 
 (e) Preserve the institutional knowledge of trail stewardship across the network, including the record of volunteer work done and the local knowledge a steward accumulates, so that it is not lost when a steward steps back;
 
-(f) Seek recognition as a coordinated voice for mountain bike riders and the volunteers who steward the trails, so that their perspective is available to land managers and other decision-makers, while recognising that decisions about the network rest with the land manager and that other organisations retain their own standing to speak for those they represent; `[Flag for Josh - the source wording for this clause was truncated in the change list. Completed here to match the founding narrative and clause 5.1. Confirm before circulation.]`
+(f) Seek recognition as a coordinated voice for mountain bike riders and the volunteers who steward the trails, so that their perspective is available to land managers and other decision-makers, while recognising that decisions about the network rest with the land manager and that other organisations retain their own standing to speak for those they represent;
 
 (g) Do anything necessary or incidental to the above purposes.
 
-The Society coordinates and supports the people and organisations who build and maintain trails. Building and maintaining trails is not a function the Society undertakes in its own right.
+The Society's own function is to coordinate, resource, and record trail stewardship rather than to carry out trail construction and maintenance as its own operation. Zone Stewards, Member Organisations, and any contracted partners undertake that work in their own capacity, retaining the autonomy described in clause 3.4. Nothing in this clause limits what a member may do in that capacity.
 
 The Society does not organise competitive racing events.
 
