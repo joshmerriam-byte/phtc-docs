@@ -57,7 +57,7 @@ The registered office is at such place in New Zealand as the Committee determine
 ## 3. Purpose and Powers
 
 ### 3.1 Purpose of this Constitution
-The Port Hills trail network is managed by Christchurch City Council and the Department of Conservation as land managers, with trails also crossing private land. Alongside that management, clubs and individual volunteers contribute substantial maintenance effort across many zones. Much of that volunteer work has developed informally, without a formal framework connecting it to the land manager's oversight, approval, or support. 
+The Port Hills trail network is managed by Christchurch City Council and the Department of Conservation as land managers, with trails also crossing private land. Alongside that management, clubs and individual volunteers contribute substantial maintenance effort across many zones. Much of that volunteer work has developed informally, without a formal framework connecting it to the land manager's oversight, approval, or support.
 
 This Society exists to provide that formal framework: a body the land managers can work with, through which volunteer stewardship is coordinated, approved, recorded, and resourced. It takes on the coordination, funding, and record-keeping that no steward can carry alone, so that the people doing the work can continue, with formal standing and without administrative burden they did not take on.
 

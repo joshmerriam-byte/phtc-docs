@@ -22,9 +22,11 @@ Where a steward is uncertain which category a piece of work falls into, they ask
 
 `[DRAFT - UNDER REVIEW. This section implements the consequences paragraph in Constitution 3.5, which Josh has not yet confirmed. It cannot be finalised before that paragraph is.]`
 
-Where the Committee receives a report that a member has organised or carried out new unauthorised trail construction, whether as Society activity or otherwise, the report is put in writing to the Secretary. The Committee considers whether the conduct may have undermined the Society's standing with land managers.
+Where the Committee receives a report that a member has organised or carried out unauthorised trail construction, whether as Society activity or otherwise, the report is put in writing to the Secretary. The Committee considers whether the conduct may have undermined the Society's standing with land managers.
 
-Where the Committee considers it may have, it may refer the matter to the dispute resolution process under clause 12 of the Constitution, and may recommend to the Council of Stewards that the member's steward seat be reviewed. A seat is not forfeited automatically: the dispute process runs first, and the Council decides.
+Where the Committee considers it may have, it refers the matter to the dispute resolution process under clause 12 of the Constitution. Referral is not discretionary: clause 3.5 requires it.
+
+Following that process, the Committee may take action proportionate to what the process establishes, ranging from a formal warning, to conditions on the member's continued stewardship, up to and including a recommendation that the member's steward seat be removed. A seat is never forfeited automatically, and any removal of a steward seat requires confirmation by the Council of Stewards.
 
 This section does not apply to the routine maintenance of existing trails, as described above. It does not concern where a member chooses to ride.
 
