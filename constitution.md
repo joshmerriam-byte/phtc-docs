@@ -1,6 +1,6 @@
 # Port Hills Trails Collective Incorporated — Constitution
 
-**DRAFT v1.10 — 2026-08-27 — NOT FINALIZED.** Pending legal review and the 27 July financials decision on the CMBC transformation path. Clauses marked `[CMBC-TIED]` are provisional and toggle on that decision.
+**DRAFT v1.11 — 2026-09-02 — NOT FINALIZED.** Pending legal review and the 27 July financials decision on the CMBC transformation path. Clauses marked `[CMBC-TIED]` are provisional and toggle on that decision.
 
 ---
 
@@ -57,9 +57,9 @@ The registered office is at such place in New Zealand as the Committee determine
 ## 3. Purpose and Powers
 
 ### 3.1 Purpose of this Constitution
-The Port Hills trail network is maintained by CCC together with clubs and volunteers, working across many zones, with no layer connecting them. The collective volunteer contribution is often invisible because nothing amalgamates it. Funding at a regional scale is out of reach for individuals and small clubs. There is no single recognised voice for the network as a whole when land managers make decisions about it. And when a steward steps back, the record of their work can be lost.
+The Port Hills trail network is managed by Christchurch City Council and the Department of Conservation as land managers, with trails also crossing private land. Alongside that management, clubs and individual volunteers contribute substantial maintenance effort across many zones. Much of that volunteer work has developed informally, without a formal framework connecting it to the land manager's oversight, approval, or support. The result is that volunteer effort is often invisible to the institutions that manage the land, inaccessible to funders, and fragile when a steward steps back.
 
-This Society exists to resource and connect that volunteer stewardship, not to direct it. It takes on the coordination, funding, recognition, and record-keeping that no steward can carry alone, so that the people doing the work can keep doing it, better supported and without administrative burden they did not take on. The Society is governed by those actively stewarding the network. It coordinates and resources local stewardship; it does not direct how that stewardship is done.
+This Society exists to provide that formal framework: a body the land managers can work with, through which volunteer stewardship is coordinated, approved, recorded, and resourced. It takes on the coordination, funding, and record-keeping that no steward can carry alone, so that the people doing the work can continue, with formal standing and without administrative burden they did not take on.
 
 This Constitution should be read and applied in light of that purpose.
 
@@ -80,7 +80,7 @@ The Society's purposes are charitable and for the public benefit. In furtherance
 
 (g) Do anything necessary or incidental to the above purposes.
 
-The Society's own function is to coordinate, resource, and record trail stewardship rather than to carry out trail construction and maintenance as its own operation. Zone Stewards, Member Organisations, and any contracted partners undertake that work in their own capacity, retaining the autonomy described in clause 3.4. Nothing in this clause limits what a member may do in that capacity.
+The Society's own function is to coordinate, resource, and record trail stewardship rather than to carry out trail construction and maintenance as its own operation. Zone Stewards, Member Organisations, and any contracted partners undertake that work in their own capacity, retaining the operational freedom described in clause 3.4. Nothing in this clause limits what a member may do in that capacity.
 
 The Society does not organise competitive racing events.
 
@@ -88,20 +88,26 @@ The Society does not organise competitive racing events.
 The Society begins with a focus on publicly accessible trails in Port Hills East, east of the Bridle Path corridor. The Committee may expand the geographic scope by Ordinary Resolution to include additional zones across the wider Port Hills and Canterbury region. No constitutional amendment is required to expand geographic scope.
 
 ### 3.4 Federated Principle
-The Society operates as a coordination and support layer, not a governing authority. Member Organisations and zone stewards retain full autonomy over their local operations and trail stewardship decisions. The Society centralises only those functions that cannot be achieved by individual members acting alone: funding access, institutional recognition, shared data infrastructure, and coordinator support.
+The Society operates as a coordination and support layer, not a governing authority. It does not direct how stewards do their day-to-day maintenance work. Zone stewards and Member Organisations bring local knowledge and practical judgment to the trails they look after.
+
+That operational freedom sits within a framework set by the land manager. The landowner or land manager has the right to set the standards for any trail on their land, including its grade, character, and the scope of work that is appropriate. Stewards work within those standards. Where a steward is uncertain whether proposed work falls within the existing grade and character of a trail, they consult the land manager before proceeding.
+
+The Society centralises only those functions that cannot be achieved by individual members acting alone: funding access, institutional recognition, shared data infrastructure, and coordinator support.
 
 ### 3.5 Authorised Trails and Landowner Relationships
-The Society's standing with Christchurch City Council, the Department of Conservation, and private landowners is the foundation of everything it does. The Society's purpose is to be the body those land managers can work with: accountable, transparent, and trusted. The following principles protect that standing.
+The Society's standing with Christchurch City Council, the Department of Conservation, and private landowners is the foundation of everything it does. The following principles protect that standing.
 
-The Society conducts its trail work on authorised trails, with the permission of the relevant landowner or land manager.
+The Society conducts its trail work on authorised trails, with the permission of the relevant landowner or land manager. Where the Society organises or coordinates trail work, it operates on a no-surprises basis with the relevant land manager: work is discussed and agreed before it begins, and delivered as described.
 
 The Society does not organise, direct, or fund the construction of new unauthorised trails. The Society's recognition by land managers depends on this, without exception.
 
-Where unauthorised or unmapped trails already exist and are being ridden and maintained by the community, the Society's role is to work with the landowners to bring the good ones onto the map, rather than pretend they don't exist or police anyone.
+Where unauthorised or unmapped trails already exist and are being ridden and maintained by the community, the Society's role is to work with the land manager toward bringing suitable trails into the sanctioned network where appropriate.
 
-Nothing in this Constitution requires a member to account for, or to renounce, trail use or trail work undertaken in their own private capacity outside Society activity. The Society governs its own conduct as an organisation; it does not govern the private recreational choices of its members.
+`[DRAFT - UNDER REVIEW. The paragraph below is not confirmed. Josh is sitting with the consequences-for-unauthorised-construction provision before it is finalised. Do not treat this paragraph as settled text, and do not circulate 3.5 as final until Josh confirms it.]`
 
-Where the Society organises or coordinates trail work, it operates on a no-surprises basis with the relevant land manager: work is discussed and agreed before it begins, and delivered as described.
+The Society does not police where its members ride. However, a member who organises or carries out new unauthorised trail construction, whether as Society activity or otherwise, may be found to have undermined the Society's standing with land managers. The Committee may refer such conduct to the dispute resolution process in clause 12, and may recommend to the Council of Stewards that the member's steward seat be reviewed. This does not apply to the routine maintenance of existing trails.
+
+The detailed standards for what constitutes authorised work, including the distinction between routine maintenance and work that changes a trail's grade or character, are set out in the Bylaws.
 
 ### 3.6 Capacity and Powers
 The Society has full capacity to carry on any activity, do any act, or enter into any transaction, subject to this Constitution, the Act, the Charities Act, and the general law. The Society shall not borrow money without a Special Resolution of the voting membership.
@@ -124,7 +130,9 @@ A Member Organisation does not hold a separate steward seat. Where the organisat
 ### 4.4 Zone Stewards
 A Zone Steward is an individual who actively maintains a named zone and holds one seat carrying one vote. A zone may consist of a single trail. A Zone Steward is a member in their own right, whether or not they are also affiliated with a Member Organisation.
 
-Stewardship is self-selecting. A person becomes a Zone Steward by taking on the active maintenance of a zone and filing an initial condition report for it, which serves as their self-nomination. Recognition follows from that report and the active-stewardship standard in the Bylaws, not from election or appointment. The Committee confirms recognition, and may decline only for reasons stated in writing, which the person may bring to the Council of Stewards.
+A person becomes a Zone Steward by applying to the Committee and being confirmed in accordance with the process and standards set out in the Bylaws. The Committee confirms recognition in consultation with the relevant land manager. The Committee may decline an application for reasons stated in writing, which the applicant may bring to the Council of Stewards.
+
+Individuals who are actively stewarding a zone at the time of the Society's incorporation are recognised as Zone Stewards at the first Council of Stewards meeting, on the terms set out in the Bylaws. This recognition acknowledges the existing work rather than requiring a fresh application for those already in the field.
 
 Every Zone Steward must also hold Supporting Rider membership. The Committee may waive Supporting Rider dues for any steward for whom the dues would be a genuine financial barrier, with any such waiver recorded and reviewed annually. What counts as a zone, and its boundaries, are defined in the zone register maintained under the Bylaws. A Zone Steward's seat is subject to the lapse provisions in clause 4.6.
 
@@ -132,9 +140,9 @@ Every Zone Steward must also hold Supporting Rider membership. The Committee may
 Supporting Rider membership is the Society's base membership, open to any individual who wishes to support the maintenance and stewardship of the Port Hills trail network. Supporting Rider membership is a way to contribute to the trails through annual dues that fund the collective work, rather than a service in exchange for benefits. Supporting Riders receive information about the network's condition and activities as set out in the Bylaws. Supporting Riders hold no governance seat and have no vote, but are members of the Society for the purposes of the Act. An individual who takes on active stewardship of a named zone can become a Zone Steward under clause 4.4.
 
 ### 4.6 Lapse of a Steward Seat
-A Steward Seat depends on active stewardship. Active stewardship is defined in the Bylaws and includes filing the quarterly zone condition report. If a steward does not file the quarterly report for one quarter, the Committee must make reasonable contact with the steward and give them a reasonable opportunity to confirm they are continuing. If the steward does not file the report for a second consecutive quarter, the seat lapses and the zone is recorded in the register as seeking a steward.
+A Steward Seat depends on active stewardship as defined in the Bylaws. If a steward ceases active stewardship, the seat lapses and the zone is recorded in the register as seeking a steward. The process for determining lapse, including contact with the steward and provision for temporary pause, is set out in the Bylaws.
 
-A steward may notify the Committee of a temporary pause in their stewardship and retain the seat for an agreed period. The Committee may recognise a temporary stand-in to cover a zone during a steward's notified pause. This clause governs lapse through inactivity only. Removal of a member for misconduct is dealt with under clause 4.9.
+This clause governs lapse through inactivity only. Removal of a member for misconduct is dealt with under clause 4.9.
 
 ### 4.7 Public Representative
 There is one Public Representative, holding one seat carrying one vote. The role represents the interests of the wider riding public: those who use the trails but do not steward them. The Representative is self-nominated from among the Supporting Riders and confirmed by the Council of Stewards, and holds office for one year. A steward may also hold the role, but holds one vote in total. The Public Representative is the Society's public point of contact.
@@ -224,7 +232,7 @@ An Officer must: act in good faith and in what they believe to be the best inter
 ### 8.2 Register and Disclosure of Interests
 The Committee must keep an interests register. An Officer who is Interested in a Matter must disclose the nature and extent of the interest as soon as practicable and record it in the register. An Interested Committee Member must not vote on, or sign any document relating to, the Matter, unless all non-interested Committee Members consent. The Interested member may take part in discussion of the Matter and be present at the decision, unless the Committee decides otherwise, and may be counted for quorum.
 
-Every voting member must disclose to the Committee any elected or appointed governance role they hold in another organisation doing similar work or pursuing similar aims, such as trails, cycling, or land management in the region, including committee membership, office, or trusteeship. These disclosures are recorded in the interests register and updated as roles change.
+Voting members must also disclose governance roles in similar organisations, as required by the Bylaws.
 
 ### 8.3 Majority Interested; Failure to Comply
 This clause sets the arrangements for a special general meeting under section 64(3) of the Act. The Society modifies the threshold in section 64(3) under section 67 of the Act: if two-thirds or more of the Committee are prevented from voting on a Matter because they are Interested, a special general meeting must be called to consider and determine the Matter. Where an Officer fails to disclose an interest under section 63 of the Act, or takes part in a vote, decision, or signing in contravention of section 64, the Committee must notify Members under section 65 of the Act, in the manner required by the Act and any regulations, of the failure and any transactions affected, as soon as practicable after becoming aware of it. `[Flag for Simon: confirm Regs 2023 impose no condition on the s67 modification; if they do, revert threshold to 50%]`
@@ -261,8 +269,8 @@ Before engaging any paid person, the Committee must take advice on the appropria
 ### 11.1 Project Assessment
 The Society coordinates network-wide projects and the allocation of shared resources and grant funding using a transparent scored assessment, the weighting of which is established in the Bylaws and reviewed annually by the Council of Stewards.
 
-### 11.2 Local Autonomy Preserved
-Nothing in this section affects the autonomy of a zone steward or Member Organisation over the trails they maintain. Project coordination applies to shared resources and collective funding, not to local stewardship decisions.
+### 11.2 Local Stewardship Preserved
+Nothing in this section affects the operational freedom of a zone steward or Member Organisation over the day-to-day maintenance of the trails they look after, within the standards set by the land manager under clause 3.4. Project coordination applies to shared resources and collective funding, not to local stewardship decisions.
 
 ### 11.3 Priority Setting
 The Council of Stewards sets network priorities each year from a scored capital assessment established in the Bylaws, which must include at minimum: safety, public benefit, environmental impact, and readiness. Priorities may be set using a ranked-choice vote of the Council.
@@ -341,7 +349,7 @@ If any matter arises that, in the opinion of the Committee, is not provided for 
 
 **17.4** All financial members of Canterbury Mountain Bike Club Incorporated as at the Transformation Date are enrolled as Founding Members under clause 4.8 and offered Supporting Rider membership at no cost for the first full year.
 
-**17.5** Existing commitments of Canterbury Mountain Bike Club — including equipment held for member use (including personal locator beacons), pledged donations, and affiliations — are reviewed by the Committee within 90 days. The personal locator beacon service is continued for members. The Committee determines whether each other commitment continues, transfers, or lapses, and notifies affected members.
+**17.5** Existing commitments of Canterbury Mountain Bike Club — including equipment held for member use, pledged donations, and affiliations — are reviewed by the Committee within 90 days. The Committee determines whether each commitment continues, transfers, or lapses, and notifies affected members.
 
 **17.6** The Committee may adjust any timing requirement in this Constitution for 90 days following the Transformation Date to facilitate an orderly transition.
 
