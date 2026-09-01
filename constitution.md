@@ -105,9 +105,9 @@ Where unauthorised or unmapped trails already exist and are being ridden and mai
 
 `[DRAFT - UNDER REVIEW. The paragraph below is not confirmed. Josh is sitting with the consequences-for-unauthorised-construction provision before it is finalised. Do not treat this paragraph as settled text, and do not circulate 3.5 as final until Josh confirms it.]`
 
-The Society does not police where its members ride. However, a member who organises or carries out new unauthorised trail construction, whether as Society activity or otherwise, may be found to have undermined the Society's standing with land managers. The Committee may refer such conduct to the dispute resolution process in clause 12, and may recommend to the Council of Stewards that the member's steward seat be reviewed. This does not apply to the routine maintenance of existing trails.
+The Society does not police where its members ride. However, a member who organises or carries out new unauthorised trail construction, whether as Society activity or otherwise, may be found to have undermined the Society's standing with land managers, and may have their steward seat reviewed as a result. This does not apply to the routine maintenance of existing trails.
 
-The detailed standards for what constitutes authorised work, including the distinction between routine maintenance and work that changes a trail's grade or character, are set out in the Bylaws.
+The standards for what constitutes authorised work, including the distinction between routine maintenance and work that changes a trail's grade or character, and the process for handling suspected unauthorised construction, are set out in the Bylaws.
 
 ### 3.6 Capacity and Powers
 The Society has full capacity to carry on any activity, do any act, or enter into any transaction, subject to this Constitution, the Act, the Charities Act, and the general law. The Society shall not borrow money without a Special Resolution of the voting membership.
