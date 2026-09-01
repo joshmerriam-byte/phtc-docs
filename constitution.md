@@ -57,7 +57,7 @@ The registered office is at such place in New Zealand as the Committee determine
 ## 3. Purpose and Powers
 
 ### 3.1 Purpose of this Constitution
-The Port Hills trail network is managed by Christchurch City Council and the Department of Conservation as land managers, with trails also crossing private land. Alongside that management, clubs and individual volunteers contribute substantial maintenance effort across many zones. Much of that volunteer work has developed informally, without a formal framework connecting it to the land manager's oversight, approval, or support. The result is that volunteer effort is often invisible to the institutions that manage the land, inaccessible to funders, and fragile when a steward steps back.
+The Port Hills trail network is managed by Christchurch City Council and the Department of Conservation as land managers, with trails also crossing private land. Alongside that management, clubs and individual volunteers contribute substantial maintenance effort across many zones. Much of that volunteer work has developed informally, without a formal framework connecting it to the land manager's oversight, approval, or support. 
 
 This Society exists to provide that formal framework: a body the land managers can work with, through which volunteer stewardship is coordinated, approved, recorded, and resourced. It takes on the coordination, funding, and record-keeping that no steward can carry alone, so that the people doing the work can continue, with formal standing and without administrative burden they did not take on.
 
@@ -105,7 +105,7 @@ Where unauthorised or unmapped trails already exist and are being ridden and mai
 
 `[DRAFT - UNDER REVIEW. The paragraph below is not confirmed. Josh is sitting with the consequences-for-unauthorised-construction provision before it is finalised. Do not treat this paragraph as settled text, and do not circulate 3.5 as final until Josh confirms it.]`
 
-The Society does not police where its members ride. However, a member who organises or carries out new unauthorised trail construction, whether as Society activity or otherwise, may be found to have undermined the Society's standing with land managers, and may have their steward seat reviewed as a result. This does not apply to the routine maintenance of existing trails.
+The Society does not police where its members ride. However, a member who organises or carries out unauthorised trail construction — distinct from the routine maintenance of existing trails — whether as Society activity or otherwise, may be found to have undermined the Society's standing with land managers. The Committee will refer such conduct to the dispute resolution process in clause 12. Following that process, the Committee may take action ranging from a formal warning, to conditions on the member's continued stewardship, up to and including a recommendation that the member's steward seat be removed. Any removal of a steward seat requires confirmation by the Council of Stewards.
 
 The standards for what constitutes authorised work, including the distinction between routine maintenance and work that changes a trail's grade or character, and the process for handling suspected unauthorised construction, are set out in the Bylaws.
 
