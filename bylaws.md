@@ -20,8 +20,6 @@ Where a steward is uncertain which category a piece of work falls into, they ask
 
 ## Under clause 3.5 — Unauthorised construction and steward seat review
 
-`[DRAFT - UNDER REVIEW. This section implements the consequences paragraph in Constitution 3.5, which Josh has not yet confirmed. It cannot be finalised before that paragraph is.]`
-
 Where the Committee receives a report that a member has organised or carried out unauthorised trail construction, whether as Society activity or otherwise, the report is put in writing to the Secretary. The Committee considers whether the conduct may have undermined the Society's standing with land managers.
 
 Where the Committee considers it may have, it refers the matter to the dispute resolution process under clause 12 of the Constitution. Referral is not discretionary: clause 3.5 requires it.

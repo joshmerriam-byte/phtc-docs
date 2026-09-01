@@ -55,13 +55,13 @@ _As of 2026-07-16:_
 | Bylaws | Draft v1.2, finalizing | `bylaws.md` (here) |
 
 ## Resolved
+- **Constitution 3.5, unauthorised-construction consequences: CONFIRMED 2026-09-02.** Josh rewrote the paragraph and confirmed it. Referral to the clause 12 dispute process is mandatory, not discretionary. The response is graduated: formal warning, conditions on continued stewardship, or a recommendation that the steward seat be removed. Any removal requires confirmation by the Council of Stewards. Both `[DRAFT - UNDER REVIEW]` markers are removed and the bylaw section under clause 3.5 was aligned to match. Note that "new" was dropped from "new unauthorised trail construction" in the rewrite, so the trigger now rests on the inline distinction from routine maintenance of existing trails.
 - **DOT references:** removed everywhere. David asked that DOT not be mentioned at all, so the website line naming them is gone too. The constitution, bylaws and narrative contain none and never did. Clause 11.5 covers trail-building partners generically, with no partner named. Remaining mentions in this file are the decision record, not public claims.
 - **Facilitator renamed Chair:** done in v1.9, carried through.
 - **Purpose-clause overlap with DOT Trust Deed 2.1:** addressed in v1.10 and confirmed by Josh. 3.2(e) institutional knowledge and 3.2(f) coordinated voice both stay as written.
 - **`phtc-drafts` nothing-was-lost check:** run 2026-08-27 and passed. Repo clear to archive or delete after the AGM.
 
 ## Open questions / in flight
-- **Constitution 3.5, unauthorised-building consequences paragraph: NOT FINALIZED.** Josh is sitting with it. The paragraph is in v1.11 carrying a `[DRAFT - UNDER REVIEW]` marker, and the matching bylaw section is flagged the same way. Do not circulate 3.5 as final until Josh confirms. **This is the one blocker in the governing documents before 7 September.**
 - **Maintenance-versus-alteration bylaw (under clause 3.5):** drafted in v1.3, flagged. Walk the specific line past Asher Richards before finalising.
 - **Steward application process bylaw (under clause 4.4):** drafted in v1.3 from the ranger meeting. Needs a read-through against how it will actually work in the field, and CCC's view on what "in consultation with the relevant land manager" means in practice.
 - **Amendment threshold:** confirm with Simon whether CMBC's simple-majority clause holds under the ISA 2022 for adopting the new constitution. Critical for 7 September.

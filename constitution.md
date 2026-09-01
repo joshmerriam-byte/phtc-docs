@@ -103,8 +103,6 @@ The Society does not organise, direct, or fund the construction of new unauthori
 
 Where unauthorised or unmapped trails already exist and are being ridden and maintained by the community, the Society's role is to work with the land manager toward bringing suitable trails into the sanctioned network where appropriate.
 
-`[DRAFT - UNDER REVIEW. The paragraph below is not confirmed. Josh is sitting with the consequences-for-unauthorised-construction provision before it is finalised. Do not treat this paragraph as settled text, and do not circulate 3.5 as final until Josh confirms it.]`
-
 The Society does not police where its members ride. However, a member who organises or carries out unauthorised trail construction — distinct from the routine maintenance of existing trails — whether as Society activity or otherwise, may be found to have undermined the Society's standing with land managers. The Committee will refer such conduct to the dispute resolution process in clause 12. Following that process, the Committee may take action ranging from a formal warning, to conditions on the member's continued stewardship, up to and including a recommendation that the member's steward seat be removed. Any removal of a steward seat requires confirmation by the Council of Stewards.
 
 The standards for what constitutes authorised work, including the distinction between routine maintenance and work that changes a trail's grade or character, and the process for handling suspected unauthorised construction, are set out in the Bylaws.
