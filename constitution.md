@@ -1,6 +1,6 @@
 # Port Hills Trails Collective Incorporated — Constitution
 
-**DRAFT v1.11 — 2026-09-02 — NOT FINALIZED.** Pending legal review and the 27 July financials decision on the CMBC transformation path. Clauses marked `[CMBC-TIED]` are provisional and toggle on that decision.
+**DRAFT v1.12 — 2026-09-05 — NOT FINALIZED.** Pending legal review and the 27 July financials decision on the CMBC transformation path. Clauses marked `[CMBC-TIED]` are provisional and toggle on that decision.
 
 ---
 
@@ -64,7 +64,7 @@ This Society exists to provide that formal framework: a body the land managers c
 This Constitution should be read and applied in light of that purpose.
 
 ### 3.2 Charitable Purposes
-The Society's purposes are charitable and for the public benefit. In furtherance of that public benefit, the Society's purposes are to:
+The Society's purposes are charitable and for the public benefit. Pecuniary gain is not a purpose of the Society. In furtherance of that public benefit, the Society's purposes are to:
 
 (a) Support and coordinate the volunteer stewardship of publicly accessible trails across the Port Hills and Canterbury region, so the network is maintained and kept safe, well cared for, and open to the community, including riders, walkers, runners, and other members of the public, including by obtaining and distributing funding for that coordination and for shared network infrastructure;
 
@@ -247,7 +247,7 @@ The funds and property of the Society are controlled, invested, and disposed of 
 The Society's balance date is 31 March, or such other date as the Committee decides. The Society's financial statements are prepared in accordance with the Act and, where the Society is a registered charity, the Charities Act, and are reviewed or audited where required by those Acts. The reviewer is appointed by the Committee and the reviewed statements are presented to the AGM.
 
 ### 9.3 No Personal Benefit
-No Officer or Member may derive personal financial benefit from membership, beyond reimbursement of reasonable expenses and arm's-length payment for goods or services genuinely supplied to the Society. No Officer or Member may influence a decision on a payment or transaction in which they have an interest.
+No Officer, Member, or person associated with a Member may derive personal financial benefit from membership, beyond reimbursement of reasonable expenses and arm's-length payment, at no greater than current market rates, for goods or services genuinely supplied to the Society. No Officer or Member may influence a decision on a payment or transaction in which they have an interest.
 
 ### 9.4 Annual Contribution Report
 The Committee presents to each AGM a report on the network's activity for the year, including amalgamated volunteer hours, zone condition summaries, and the zone equity status described in clause 11 and the Bylaws.
@@ -331,7 +331,7 @@ Where an amendment has no more than a minor effect, or corrects errors or makes 
 Additional seat allocations under clause 4.11 require a Special Resolution. Geographic scope under clause 3.3 may be expanded by Ordinary Resolution of the Committee.
 
 ## 15. Liquidation and Removal
-The Committee must give all Members at least 20 Working Days notice, complying with section 228 of the Act, of any proposed motion to appoint a liquidator, remove the Society from the Register, or distribute surplus assets. Any such resolution requires a Special Resolution. On winding up, surplus assets after payment of all costs, debts, and liabilities must be distributed to one or more organisations with charitable purposes similar to the Society's, as determined by Special Resolution. If members cannot agree, the Act applies.
+The Committee must give all Members at least 20 Working Days notice, complying with section 228 of the Act, of any proposed motion to appoint a liquidator, remove the Society from the Register, or distribute surplus assets. Any such resolution requires a Special Resolution. On winding up, surplus assets after payment of all costs, debts, and liabilities must be distributed to one or more organisations within New Zealand with charitable purposes similar to the Society's, as determined by Special Resolution. If members cannot agree, the Act applies.
 
 ## 16. Matters Not Provided For
 If any matter arises that, in the opinion of the Committee, is not provided for in this Constitution or any Bylaws, or if any dispute arises over interpretation, the matter will be determined by the Committee, subject to the right of Members to seek relief through the dispute resolution process in clause 12.

@@ -10,7 +10,7 @@ Start with **[CONTEXT.md](CONTEXT.md)** — the curated list of notable points t
 |---|---|---|
 | `CONTEXT.md` | Shared status, conventions, open questions, decision log | living |
 | `narrative.md` | Founding narrative and guiding principles (also live on the site) | draft for review |
-| `constitution.md` | Full constitution text | v1.10 (2026-08-27) |
+| `constitution.md` | Full constitution text | v1.12 (2026-09-05) |
 | `bylaws.md` | Full bylaws text | v1.2 |
 
 ## Working conventions
