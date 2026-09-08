@@ -1,6 +1,6 @@
 # Port Hills Trails Collective Incorporated — Bylaws
 
-**DRAFT v1.3 — 2026-09-02 — NOT FINALIZED.** Made by the Committee under clause 13 of the Constitution. Revised to match Constitution v1.11. Dollar figures, weightings, and thresholds are starting points.
+**DRAFT v1.3 — 2026-09-02 — NOT FINALIZED.** Made by the Committee under clause 13 of the Constitution. Revised to match Constitution v1.12. Dollar figures, weightings, and thresholds are starting points.
 
 ## About These Bylaws
 
