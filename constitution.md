@@ -11,7 +11,7 @@ In this Constitution, unless the context requires otherwise:
 
 - **Act** means the Incorporated Societies Act 2022, including any amendments and any regulations made under it.
 - **AGM** means the annual general meeting of Members.
-- **Bylaws** means any bylaws, policies, and codes of conduct of the Society made under clause 14.
+- **Bylaws** means any bylaws, policies, and codes of conduct of the Society made under clause 13.
 - **Casual Vacancy** means a vacancy arising when a Committee Member does not serve their full term.
 - **Chair** means the Committee Member elected to chair the Committee and the Council of Stewards.
 - **Charities Act** means the Charities Act 2005.
