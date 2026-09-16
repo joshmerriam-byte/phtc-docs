@@ -1,6 +1,6 @@
 # Port Hills Trails Collective Incorporated — Constitution
 
-**v1.14 — 2026-09-16 — FOR COMMITTEE APPROVAL.** The financials review that gated the transformation path came back clean and that path is confirmed, so the provisions governing the transformation are settled rather than provisional. One item remains with legal counsel: whether CMBC's simple-majority threshold for adopting this Constitution holds under the Incorporated Societies Act 2022.
+**v1.22 — 2026-09-16 — FOR COMMITTEE APPROVAL.** This version number jumps from v1.14 to v1.22 deliberately. A draft circulated outside this repository was numbered v1.21, and the numbering is moved ahead of it so that no one holding that copy sees the version appear to go backwards. No version between v1.14 and v1.22 was ever issued. The financials review that gated the transformation path came back clean and that path is confirmed, so the provisions governing the transformation are settled rather than provisional. One item remains with legal counsel: whether CMBC's simple-majority threshold for adopting this Constitution holds under the Incorporated Societies Act 2022.
 
 ---
 

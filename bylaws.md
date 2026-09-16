@@ -1,6 +1,6 @@
 # Port Hills Trails Collective Incorporated — Bylaws
 
-**v1.5 — 2026-09-16 — FOR COMMITTEE APPROVAL.** Made by the Committee under clause 13 of the Constitution. Revised to match Constitution v1.14. Dollar figures, weightings, and thresholds are starting points.
+**v1.5 — 2026-09-16 — FOR COMMITTEE APPROVAL.** Made by the Committee under clause 13 of the Constitution. Revised to match Constitution v1.22. Dollar figures, weightings, and thresholds are starting points.
 
 ## About These Bylaws
 
@@ -275,7 +275,7 @@ The dispute resolution procedure is set out in clause 12 of the Constitution, wh
 
 ## Version History
 
-**v1.5** — CCC confirmed the grade and character targets section and the authorised-work standards section, so both lose their draft markers. The transformation path is confirmed, so the CMBC-tied marker on Founding Member recognition is removed. Constitution cross-reference updated to v1.14.
+**v1.5** — CCC confirmed the grade and character targets section and the authorised-work standards section, so both lose their draft markers. The transformation path is confirmed, so the CMBC-tied marker on Founding Member recognition is removed. Constitution cross-reference updated to v1.22 (the constitution's numbering jumped from v1.14 to v1.22 to stay ahead of a v1.21 draft circulated outside this repository; the bylaws' own numbering is unaffected and continues in sequence).
 
 **v1.4** — added the grade and character targets section under clause 3.4, implementing the new targets paragraph in Constitution v1.13. Targets give the authorised-work standards a stated baseline to measure against, so the two sections are flagged to go to Asher Richards together. Constitution cross-reference in the header updated to v1.13.
 
