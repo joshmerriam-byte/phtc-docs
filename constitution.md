@@ -1,6 +1,6 @@
 # Port Hills Trails Collective Incorporated — Constitution
 
-**DRAFT v1.12 — 2026-09-05 — NOT FINALIZED.** Pending legal review and the 27 July financials decision on the CMBC transformation path. Clauses marked `[CMBC-TIED]` are provisional and toggle on that decision.
+**DRAFT v1.13 — 2026-09-16 — NOT FINALIZED.** Pending legal review and the 27 July financials decision on the CMBC transformation path. Clauses marked `[CMBC-TIED]` are provisional and toggle on that decision.
 
 ---
 
@@ -91,6 +91,8 @@ The Society begins with a focus on publicly accessible trails in Port Hills East
 The Society operates as a coordination and support layer, not a governing authority. It does not direct how stewards do their day-to-day maintenance work. Zone stewards and Member Organisations bring local knowledge and practical judgment to the trails they look after.
 
 That operational freedom sits within a framework set by the land manager. The landowner or land manager has the right to set the standards for any trail on their land, including its grade, character, and the scope of work that is appropriate. Stewards work within those standards. Where a steward is uncertain whether proposed work falls within the existing grade and character of a trail, they consult the land manager before proceeding.
+
+For each zone, the Council of Stewards develops and maintains grade and character targets for the authorised trails in that zone. Targets record what each trail is intended to be, within the standards the land manager sets under this clause, and take effect once the relevant land manager has agreed them. The process for setting, recording, and reviewing targets is set out in the Bylaws.
 
 The Society centralises only those functions that cannot be achieved by individual members acting alone: funding access, institutional recognition, shared data infrastructure, and coordinator support.
 

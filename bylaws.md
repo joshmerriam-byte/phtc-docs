@@ -1,12 +1,28 @@
 # Port Hills Trails Collective Incorporated — Bylaws
 
-**DRAFT v1.3 — 2026-09-02 — NOT FINALIZED.** Made by the Committee under clause 13 of the Constitution. Revised to match Constitution v1.12. Dollar figures, weightings, and thresholds are starting points.
+**DRAFT v1.4 — 2026-09-16 — NOT FINALIZED.** Made by the Committee under clause 13 of the Constitution. Revised to match Constitution v1.13. Dollar figures, weightings, and thresholds are starting points.
 
 ## About These Bylaws
 
 These Bylaws hold the operational detail the Constitution deliberately leaves out, so the Society can adjust how it works without amending its founding document each time experience teaches it something. Any Bylaw must be consistent with the Constitution, the Society's charitable purposes, the Incorporated Societies Act 2022, and the Charities Act 2005. Where a Bylaw and the Constitution conflict, the Constitution prevails. The Committee may amend these Bylaws by Ordinary Resolution, subject to the reservation in clause 13 of the Constitution that no Bylaw may alter who holds a vote or voice. Changes are recorded with a version note and reported to the next Council of Stewards meeting.
 
 Sections are organised by the Constitution clause they implement, and each such section opens with that reference, so a reader can move between the two documents. Sections that implement no single clause carry no reference. The ordering follows the Constitution rather than mirroring its numbering, since not every clause needs a Bylaw.
+
+## Under clause 3.4 — Grade and character targets
+
+`[DRAFT. Targets are the baseline the authorised-work standards below are measured against, so this section and the next should go to Asher Richards together.]`
+
+A grade and character target records, for each authorised trail or trail section in a zone, what that trail is intended to be: its grade, and the character that makes it what it is. Targets exist so that "changes the grade or character of a trail" has a stated baseline rather than resting on memory or individual judgment.
+
+**Drafting.** The zone steward drafts the targets for their zone, with the Coordinator, or a nominated person until the Coordinator is in post. Drafting starts from what the trail already is, not from what anyone would prefer it to become.
+
+**Adoption and agreement.** The Council of Stewards considers and adopts the draft targets for a zone. The Committee then puts the adopted targets to the relevant land manager. A target takes effect only once that land manager has agreed it, per clause 3.4 of the Constitution. Where a land manager proposes different targets, theirs are the standards and the register records them.
+
+**Recording.** Agreed targets are recorded in the zone register against each trail or trail section, with the date agreed and the land manager who agreed them. The register is the reference point when assessing whether proposed work is routine maintenance or an alteration.
+
+**Review.** Targets are reviewed annually alongside the zone condition reports, and at any time on the request of the steward, the Committee, or the land manager. A change to an agreed target follows the same route as setting one: Council adoption, then land-manager agreement.
+
+**Where no target is yet agreed.** Until a target is agreed for a trail, its existing grade and character as built stand as the working baseline, and the when-in-doubt-ask rule in clause 3.4 applies with full force.
 
 ## Under clause 3.5 — Authorised work standards
 
@@ -262,6 +278,8 @@ The dispute resolution procedure is set out in clause 12 of the Constitution, wh
 ---
 
 ## Version History
+
+**v1.4** — added the grade and character targets section under clause 3.4, implementing the new targets paragraph in Constitution v1.13. Targets give the authorised-work standards a stated baseline to measure against, so the two sections are flagged to go to Asher Richards together. Constitution cross-reference in the header updated to v1.13.
 
 **v1.3** — restructured so each section opens with the Constitution clause it implements, following Constitution order rather than mirroring its numbering. Revised to match Constitution v1.11. New sections added for the CCC ranger feedback and the constitution-to-bylaws audit: authorised work standards (maintenance versus alteration, under 3.5, draft pending Asher Richards); unauthorised construction and steward seat review (under 3.5, draft pending Josh's confirmation of the constitutional paragraph); Zone Steward application and recognition (under 4.4, replacing self-selection with application and approval in consultation with the land manager, and covering grandfathering of existing stewards at incorporation); and steward seat lapse process (under 4.6, holding the mechanism moved out of the Constitution). Governance role disclosure promoted to its own section under 8.2. Personal locator beacon policy removed entirely, with its consequential references in Supporting Rider recognition and Coordinator responsibilities removed to match; CMBC is disposing of the beacons before handover and PHTC starts without them. Landowner respect section updated to match the narrowed private-conduct carve-out in Constitution 3.5. Dollar figures, weightings, and thresholds remain starting points.
 
