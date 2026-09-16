@@ -1,6 +1,6 @@
 # Port Hills Trails Collective Incorporated — Constitution
 
-**DRAFT v1.13 — 2026-09-16 — NOT FINALIZED.** Pending legal review and the 27 July financials decision on the CMBC transformation path. Clauses marked `[CMBC-TIED]` are provisional and toggle on that decision.
+**v1.14 — 2026-09-16 — FOR COMMITTEE APPROVAL.** The financials review that gated the transformation path came back clean and that path is confirmed, so the provisions governing the transformation are settled rather than provisional. One item remains with legal counsel: whether CMBC's simple-majority threshold for adopting this Constitution holds under the Incorporated Societies Act 2022.
 
 ---
 
@@ -33,7 +33,7 @@ In this Constitution, unless the context requires otherwise:
 - **Special Resolution** means a resolution passed by at least 75% of the votes cast at a quorate General Meeting, required for the Protected Decisions listed in clause 14.1.
 - **Supporting Rider** means an individual admitted as a member under clause 4 who holds no governance seat. Supporting Riders are members of the Society for the purposes of the Act.
 - **Zone Steward** means an individual who actively maintains a named zone and holds a Steward Seat. A zone may consist of a single trail.
-- **Transformation Date** means the date this Constitution was adopted by the membership of Canterbury Mountain Bike Club Incorporated. `[CMBC-TIED]`
+- **Transformation Date** means the date this Constitution was adopted by the membership of Canterbury Mountain Bike Club Incorporated.
 - **Working Day** means the meaning given under the Legislation Act 2019, excluding Canterbury Anniversary Day, weekends, and public holidays.
 - **Zone** means a named geographic area of the Port Hills trail network as defined in the zone register.
 
@@ -46,7 +46,7 @@ Notices must be in writing and may be given by hand, post, or email to a Member'
 ## 2. Society Details
 
 ### 2.1 Name
-The name of the society is Port Hills Trails Collective Incorporated (the Society), formerly Canterbury Mountain Bike Club Incorporated, incorporated 25 May 2017. `[CMBC-TIED: the "formerly … 2017" clause deletes on fresh start]`
+The name of the society is Port Hills Trails Collective Incorporated (the Society), formerly Canterbury Mountain Bike Club Incorporated, incorporated 25 May 2017.
 
 ### 2.2 Charitable Status
 The Society intends to be registered as a charitable entity under the Charities Act as soon as practicable after incorporation. The Society's charitable purposes are those in clause 3.2, and its activities will be carried out exclusively for those purposes.
@@ -148,7 +148,7 @@ This clause governs lapse through inactivity only. Removal of a member for misco
 There is one Public Representative, holding one seat carrying one vote. The role represents the interests of the wider riding public: those who use the trails but do not steward them. The Representative is self-nominated from among the Supporting Riders and confirmed by the Council of Stewards, and holds office for one year. A steward may also hold the role, but holds one vote in total. The Public Representative is the Society's public point of contact.
 
 ### 4.8 Founding Members
-A Member admitted to the Society on or before the first AGM is a Founding Member, recorded in the minutes of that meeting and acknowledged in the Society's annual report. Founding Members are offered Supporting Rider membership at no cost for the first year. The designation is retained regardless of whether the individual continues as a member. Founding Members include the financial members of Canterbury Mountain Bike Club Incorporated as at the Transformation Date. `[Last sentence CMBC-TIED — deletes on fresh start]`
+A Member admitted to the Society on or before the first AGM is a Founding Member, recorded in the minutes of that meeting and acknowledged in the Society's annual report. Founding Members are offered Supporting Rider membership at no cost for the first year. The designation is retained regardless of whether the individual continues as a member. Founding Members include the financial members of Canterbury Mountain Bike Club Incorporated as at the Transformation Date.
 
 ### 4.9 Application, Dues, and Removal
 Member Organisation and Zone Steward applicants apply to the Committee, who may admit or decline within 30 days. Supporting Riders are admitted on application and payment of dues. Dues are set by Ordinary Resolution at the AGM, with all Member Organisation dues equal regardless of size. Removal of a voting member requires a Special Resolution of the voting membership with at least 14 days notice and the right to be heard. A member also ceases membership on death or dissolution, on written resignation, or if dues remain unpaid 60 days after the due date. Membership obligations and detailed member rights are set out in the Bylaws.
@@ -202,7 +202,7 @@ The Chair, elected by the members at the AGM under clause 6.2, chairs Committee 
 The Committee calls for nominations ahead of the AGM so members know elections are being held. Nominations may be made in advance in writing to the Secretary, or from the floor at the AGM. Where there are more nominees than positions, election is by secret ballot. Every Committee Member must consent in writing and certify they are not disqualified under section 47 of the Act or section 36C of the Charities Act. A person who is an employee or contractor of the Society, except the Coordinator who has no vote, or who is otherwise disqualified under those provisions, may not hold office.
 
 ### 6.5 Term
-The term of office is one year, expiring at the AGM. A Committee Member may be re-elected for a maximum of six consecutive terms in the same role. As a transitional measure, officers may be re-elected without limit during the first three years following the Transformation Date. A period filling a Casual Vacancy is disregarded for calculating terms served. `[Transitional sentence CMBC-TIED — becomes "following incorporation" on fresh start]`
+The term of office is one year, expiring at the AGM. A Committee Member may be re-elected for a maximum of six consecutive terms in the same role. As a transitional measure, officers may be re-elected without limit during the first three years following the Transformation Date. A period filling a Casual Vacancy is disregarded for calculating terms served.
 
 ### 6.6 Casual Vacancy
 If a Committee position becomes vacant mid-term, the Committee may appoint a replacement until the next AGM, or leave it vacant, provided at least three Committee Members remain. If fewer than three remain, the Committee must call an SGM to fill the vacancies.
@@ -339,7 +339,7 @@ The Committee must give all Members at least 20 Working Days notice, complying w
 If any matter arises that, in the opinion of the Committee, is not provided for in this Constitution or any Bylaws, or if any dispute arises over interpretation, the matter will be determined by the Committee, subject to the right of Members to seek relief through the dispute resolution process in clause 12.
 
 ## 17. Transitional Provisions
-`[ALL OF SECTION 17 IS CMBC-TIED — pending the 27 July financials decision. On a fresh-start incorporation, most of this section deletes; the charitable-registration item (17.8) survives reworded. These provisions govern the transformation from Canterbury Mountain Bike Club Incorporated and lapse 12 months after the Transformation Date except where stated.]`
+These provisions govern the transformation from Canterbury Mountain Bike Club Incorporated. They lapse 12 months after the Transformation Date except where stated.
 
 **17.1** The Transformation Date is the date this Constitution is adopted by Special Resolution of Canterbury Mountain Bike Club Incorporated members.
 

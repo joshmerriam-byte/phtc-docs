@@ -1,6 +1,6 @@
 # Port Hills Trails Collective Incorporated — Bylaws
 
-**DRAFT v1.4 — 2026-09-16 — NOT FINALIZED.** Made by the Committee under clause 13 of the Constitution. Revised to match Constitution v1.13. Dollar figures, weightings, and thresholds are starting points.
+**v1.5 — 2026-09-16 — FOR COMMITTEE APPROVAL.** Made by the Committee under clause 13 of the Constitution. Revised to match Constitution v1.14. Dollar figures, weightings, and thresholds are starting points.
 
 ## About These Bylaws
 
@@ -9,8 +9,6 @@ These Bylaws hold the operational detail the Constitution deliberately leaves ou
 Sections are organised by the Constitution clause they implement, and each such section opens with that reference, so a reader can move between the two documents. Sections that implement no single clause carry no reference. The ordering follows the Constitution rather than mirroring its numbering, since not every clause needs a Bylaw.
 
 ## Under clause 3.4 — Grade and character targets
-
-`[DRAFT. Targets are the baseline the authorised-work standards below are measured against, so this section and the next should go to Asher Richards together.]`
 
 A grade and character target records, for each authorised trail or trail section in a zone, what that trail is intended to be: its grade, and the character that makes it what it is. Targets exist so that "changes the grade or character of a trail" has a stated baseline rather than resting on memory or individual judgment.
 
@@ -25,8 +23,6 @@ A grade and character target records, for each authorised trail or trail section
 **Where no target is yet agreed.** Until a target is agreed for a trail, its existing grade and character as built stand as the working baseline, and the when-in-doubt-ask rule in clause 3.4 applies with full force.
 
 ## Under clause 3.5 — Authorised work standards
-
-`[DRAFT. This section states the maintenance-versus-alteration line in the terms discussed with CCC. Walk the specific wording past Asher Richards before it is finalised.]`
 
 Routine maintenance is work that returns a trail to its existing standard without changing what the trail is: clearing drainage, cutting back vegetation, repairing surface, and replacing what has worn out. Routine maintenance is notified to the land manager but does not require prior sign-off.
 
@@ -101,7 +97,7 @@ Supporting Rider membership is a way to give back to the trails, not a service b
 - Notification of working bees and dig days;
 - Participation in the quarterly member survey, with results reported to the Council of Stewards.
 
-Founding Members receive permanent recognition in the annual report and the first year of Supporting Rider membership at no cost. *[CMBC enrolment feeder is CMBC-TIED — see Constitution 4.8, 17.4]*
+Founding Members receive permanent recognition in the annual report and the first year of Supporting Rider membership at no cost.
 
 *Recognition is framed as information flows and acknowledgement, not exclusive perks, consistent with the donation basis of Supporting Rider membership.*
 
@@ -278,6 +274,8 @@ The dispute resolution procedure is set out in clause 12 of the Constitution, wh
 ---
 
 ## Version History
+
+**v1.5** — CCC confirmed the grade and character targets section and the authorised-work standards section, so both lose their draft markers. The transformation path is confirmed, so the CMBC-tied marker on Founding Member recognition is removed. Constitution cross-reference updated to v1.14.
 
 **v1.4** — added the grade and character targets section under clause 3.4, implementing the new targets paragraph in Constitution v1.13. Targets give the authorised-work standards a stated baseline to measure against, so the two sections are flagged to go to Asher Richards together. Constitution cross-reference in the header updated to v1.13.
 
