@@ -1,6 +1,6 @@
 # Circulating the constitution for committee approval
 
-**For Tanya.** Constitution v1.22 and Bylaws v1.5, commit `a114fca`, 16 September 2026.
+**For Tanya.** Constitution v1.23 and Bylaws v1.6, commit `debc018`, 16 September 2026.
 
 What to publish, what to send, how members record an approval, and what to do when someone objects.
 
@@ -16,13 +16,13 @@ Everything is now live on the website. These are the links to use:
 |---|---|
 | Reading guide | <https://phtc.org.nz/reading-guide.html> |
 | What had to change, and what we chose | <https://phtc.org.nz/constitution-changes.html> |
-| Constitution v1.22 (comments enabled) | <https://docs.google.com/document/d/10on11Ete8mjLA2p62M55Iwzc3XWB9xB1/edit> |
-| Bylaws draft v1.5 (comments enabled) | <https://docs.google.com/document/d/1JJGRYkx_8FwGmniai0SiImuBXIMjhv8OJm-jBg78v-8/edit> |
+| Constitution v1.23 (comments enabled) | <https://docs.google.com/document/d/10on11Ete8mjLA2p62M55Iwzc3XWB9xB1/edit> |
+| Bylaws draft v1.6 (comments enabled) | <https://docs.google.com/document/d/1JJGRYkx_8FwGmniai0SiImuBXIMjhv8OJm-jBg78v-8/edit> |
 | CMBC constitution, 15 Sep 2024 (PDF) | <https://phtc.org.nz/cmbc-constitution-2024-09-15.pdf> |
 
 Both guide pages open with a panel linking all three source documents, so a member who lands on either one can reach everything else without going back to your email.
 
-Label everything **"for committee approval — v1.22"**. This round of approval is what makes the documents final, so don't call them final beforehand.
+Label everything **"for committee approval — v1.23"**. This round of approval is what makes the documents final, so don't call them final beforehand.
 
 > **Comments are open on both Google Docs.** That is the easiest way for people to respond, and it puts each comment next to the clause it is about. It also means anyone with the link can comment, since the links are on a public page. Watch for anything odd and tell Josh if you see it.
 
@@ -34,9 +34,9 @@ Each document has a fingerprint: change a single character and it changes comple
 
 | Document | Fingerprint | Size |
 |---|---|---|
-| Constitution v1.22 | `5617b6da2846` | 46,298 bytes |
-| Bylaws v1.5 | `1e30f199c183` | 30,616 bytes |
-| Source commit | `a114fca` | 16 Sep 2026 |
+| Constitution v1.23 | `76d0873d7b74` | 46,343 bytes |
+| Bylaws v1.6 | `3df1fdbf11e6` | 30,889 bytes |
+| Source commit | `debc018` | 16 Sep 2026 |
 
 Most people will never check these, and that is fine. They exist so that if two copies ever disagree, there is a fast way to tell which one is right.
 
@@ -64,7 +64,7 @@ One row per member, recording:
 
 - Name
 - Date replied
-- **Which version** they approved — record `v1.22 / 5617b6da2846`
+- **Which version** they approved — record `v1.23 / 76d0873d7b74`
 - Approve, approve with comments, or object
 - Their comments verbatim
 - Whether they also commented in the Google Doc
@@ -81,13 +81,23 @@ A single short reminder to anyone who has not replied, roughly five days in. **S
 
 After the deadline, send the committee a summary: how many approved, what comments came in, and what is proposed in response to each. Anything that changes the text produces a new version and a new fingerprint, and the people who already approved need to see what changed.
 
+### 6. Then the members round, which is a separate obligation
+
+This committee round is not the end. The AGM motion on 7 September carried **subject to a new Constitution being agreed and current Members being notified**, and the minutes set the sequence out: vote on the intention, work on the constitution with the Committee, then send the final document to Club Members with the appropriate notice period for feedback.
+
+So once the committee round closes and any resulting changes are made, the same document goes to **all CMBC members** — 62 as at the AGM, not just the six on the committee.
+
+**Notice period:** CMBC's own constitution, clause 8.1, requires 14 days' notice of a motion to amend or replace the constitution. Treat 14 days as the floor and give more if the calendar allows. Josh is confirming with our lawyer whether the Incorporated Societies Act 2022 changes the threshold; that answer may also affect the notice, so check with him before setting the date.
+
+The version and fingerprint discipline above applies to the members round too. If the committee round changes the text, members must receive the new version, and the register should record which version went to whom.
+
 ---
 
 ## The notice to send
 
 Fill in the bracketed parts. Keep it short — the explainers do the heavy lifting.
 
-> **Subject:** PHTC constitution v1.22: your approval needed by [date]
+> **Subject:** PHTC constitution v1.23: your approval needed by [date]
 >
 > Hi [name],
 >
@@ -128,7 +138,7 @@ Rare, but if a member asks, this is the answer. It compares their downloaded cop
 | Mac | `shasum -a 256 constitution.md` |
 | Linux | `sha256sum constitution.md` |
 
-The first twelve characters of the result should read `5617b6da2846`. If they do not, they have the wrong file or an incomplete download — send them the link again.
+The first twelve characters of the result should read `76d0873d7b74`. If they do not, they have the wrong file or an incomplete download — send them the link again.
 
 ---
 
@@ -144,4 +154,4 @@ An objection is not a problem to be managed, it is the process working. Three th
 
 ---
 
-*Port Hills Trails Collective — in formation. Circulation brief for Constitution v1.22 and Bylaws v1.5, commit `a114fca`.*
+*Port Hills Trails Collective — in formation. Circulation brief for Constitution v1.23 and Bylaws v1.6, commit `debc018`.*
