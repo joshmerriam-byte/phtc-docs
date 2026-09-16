@@ -1,6 +1,6 @@
 # Port Hills Trails Collective Incorporated — Bylaws
 
-**v1.5 — 2026-09-16 — FOR COMMITTEE APPROVAL.** Made by the Committee under clause 13 of the Constitution. Revised to match Constitution v1.22. Dollar figures, weightings, and thresholds are starting points.
+**v1.6 — 2026-09-16 — FOR COMMITTEE APPROVAL.** Made by the Committee under clause 13 of the Constitution. Revised to match Constitution v1.23. Dollar figures, weightings, and thresholds are starting points.
 
 ## About These Bylaws
 
@@ -274,6 +274,8 @@ The dispute resolution procedure is set out in clause 12 of the Constitution, wh
 ---
 
 ## Version History
+
+**v1.6** — cross-reference updated to Constitution v1.23, which corrected clause 17.2 to name the officers actually elected at the CMBC AGM of 7 September 2026. No bylaws content changed. The version number moves so that two different files never both claim to be v1.5.
 
 **v1.5** — CCC confirmed the grade and character targets section and the authorised-work standards section, so both lose their draft markers. The transformation path is confirmed, so the CMBC-tied marker on Founding Member recognition is removed. Constitution cross-reference updated to v1.22 (the constitution's numbering jumped from v1.14 to v1.22 to stay ahead of a v1.21 draft circulated outside this repository; the bylaws' own numbering is unaffected and continues in sequence).
 

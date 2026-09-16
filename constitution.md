@@ -1,6 +1,6 @@
 # Port Hills Trails Collective Incorporated — Constitution
 
-**v1.22 — 2026-09-16 — FOR COMMITTEE APPROVAL.** This version number jumps from v1.14 to v1.22 deliberately. A draft circulated outside this repository was numbered v1.21, and the numbering is moved ahead of it so that no one holding that copy sees the version appear to go backwards. No version between v1.14 and v1.22 was ever issued. The financials review that gated the transformation path came back clean and that path is confirmed, so the provisions governing the transformation are settled rather than provisional. One item remains with legal counsel: whether CMBC's simple-majority threshold for adopting this Constitution holds under the Incorporated Societies Act 2022.
+**v1.23 — 2026-09-16 — FOR COMMITTEE APPROVAL.** The numbering jumped from v1.14 to v1.22 on 16 September 2026, deliberately. A draft circulated outside this repository was numbered v1.21, and the numbering is moved ahead of it so that no one holding that copy sees the version appear to go backwards. No version between v1.14 and v1.22 was ever issued. The financials review that gated the transformation path came back clean and that path is confirmed, so the provisions governing the transformation are settled rather than provisional. One item remains with legal counsel: whether CMBC's simple-majority threshold for adopting this Constitution holds under the Incorporated Societies Act 2022.
 
 ---
 
@@ -343,7 +343,7 @@ These provisions govern the transformation from Canterbury Mountain Bike Club In
 
 **17.1** The Transformation Date is the date this Constitution is adopted by Special Resolution of Canterbury Mountain Bike Club Incorporated members.
 
-**17.2** The officers elected at the last CMBC AGM — President (Mark Neilson, to serve as Chair), Secretary (Henry Glubb), and Treasurer — continue in their roles until the first PHTC AGM, to shepherd existing members and relationships through the transition.
+**17.2** The officers elected at the CMBC AGM of 7 September 2026 — President (Mark Neilson, to serve as Chair), Treasurer (Henry Glubb), and Secretary (Tanya Hyde) — continue in their roles until the first PHTC AGM, to shepherd existing members and relationships through the transition.
 
 **17.3** The Society's existing bank account, funds, property, and contractual obligations transfer to Port Hills Trails Collective Incorporated on the Transformation Date.
 
