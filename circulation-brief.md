@@ -1,6 +1,6 @@
 # Circulating the constitution for committee approval
 
-**For Tanya.** Constitution v1.14 and Bylaws v1.5, commit `bec7364`, 16 September 2026.
+**For Tanya.** Constitution v1.22 and Bylaws v1.5, commit `a114fca`, 16 September 2026.
 
 What to publish, what to send, how members record an approval, and what to do when someone objects.
 
@@ -10,11 +10,11 @@ What to publish, what to send, how members record an approval, and what to do wh
 
 Two governing documents and two explainers. The documents are what gets approved; the explainers exist so people can approve them without reading 400 clauses cold.
 
-- **Constitution v1.14** and **Bylaws v1.5** — the text itself
+- **Constitution v1.22** and **Bylaws v1.5** — the text itself
 - **Reading guide** — the ten changes that matter most, and the charitable purposes to check
 - **CMBC comparison** — what the law required us to change, and what we chose to change
 
-Label everything **"for committee approval — v1.14"**. This round of approval is what makes the documents final, so don't call them final beforehand.
+Label everything **"for committee approval — v1.22"**. This round of approval is what makes the documents final, so don't call them final beforehand.
 
 ---
 
@@ -24,9 +24,9 @@ Each document has a fingerprint: change a single character and it changes comple
 
 | Document | Fingerprint | Size |
 |---|---|---|
-| Constitution v1.14 | `08516601aa2a` | 46,010 bytes |
-| Bylaws v1.5 | `1958319737f2` | 30,425 bytes |
-| Source commit | `bec7364` | 16 Sep 2026 |
+| Constitution v1.22 | `5617b6da2846` | 46,298 bytes |
+| Bylaws v1.5 | `1e30f199c183` | 30,616 bytes |
+| Source commit | `a114fca` | 16 Sep 2026 |
 
 Most people will never check these, and that is fine. They exist so that if two copies ever disagree, there is a fast way to tell which one is right.
 
@@ -54,7 +54,7 @@ One row per member, recording:
 
 - Name
 - Date replied
-- **Which version** they approved — record `v1.14 / 08516601aa2a`
+- **Which version** they approved — record `v1.22 / 5617b6da2846`
 - Approve, approve with comments, or object
 - Their comments verbatim
 
@@ -74,7 +74,7 @@ After the deadline, send the committee a summary: how many approved, what commen
 
 Fill in the bracketed parts. Keep it short — the explainers do the heavy lifting.
 
-> **Subject:** PHTC constitution v1.14: your approval needed by [date]
+> **Subject:** PHTC constitution v1.22: your approval needed by [date]
 >
 > Hi [name],
 >
@@ -114,7 +114,7 @@ Rare, but if a member asks, this is the answer. It compares their downloaded cop
 | Mac | `shasum -a 256 constitution.md` |
 | Linux | `sha256sum constitution.md` |
 
-The first twelve characters of the result should read `08516601aa2a`. If they do not, they have the wrong file or an incomplete download — send them the link again.
+The first twelve characters of the result should read `5617b6da2846`. If they do not, they have the wrong file or an incomplete download — send them the link again.
 
 ---
 
@@ -130,4 +130,4 @@ An objection is not a problem to be managed, it is the process working. Three th
 
 ---
 
-*Port Hills Trails Collective — in formation. Circulation brief for Constitution v1.14 and Bylaws v1.5, commit `bec7364`.*
+*Port Hills Trails Collective — in formation. Circulation brief for Constitution v1.22 and Bylaws v1.5, commit `a114fca`.*
