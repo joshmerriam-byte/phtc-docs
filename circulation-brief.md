@@ -10,11 +10,21 @@ What to publish, what to send, how members record an approval, and what to do wh
 
 Two governing documents and two explainers. The documents are what gets approved; the explainers exist so people can approve them without reading 400 clauses cold.
 
-- **Constitution v1.22** and **Bylaws v1.5** — the text itself
-- **Reading guide** — the ten changes that matter most, and the charitable purposes to check
-- **CMBC comparison** — what the law required us to change, and what we chose to change
+Everything is now live on the website. These are the links to use:
+
+| What | Where |
+|---|---|
+| Reading guide | <https://phtc.org.nz/reading-guide.html> |
+| What had to change, and what we chose | <https://phtc.org.nz/constitution-changes.html> |
+| Constitution v1.22 (comments enabled) | <https://docs.google.com/document/d/10on11Ete8mjLA2p62M55Iwzc3XWB9xB1/edit> |
+| Bylaws draft v1.5 (comments enabled) | <https://docs.google.com/document/d/1JJGRYkx_8FwGmniai0SiImuBXIMjhv8OJm-jBg78v-8/edit> |
+| CMBC constitution, 15 Sep 2024 (PDF) | <https://phtc.org.nz/cmbc-constitution-2024-09-15.pdf> |
+
+Both guide pages open with a panel linking all three source documents, so a member who lands on either one can reach everything else without going back to your email.
 
 Label everything **"for committee approval — v1.22"**. This round of approval is what makes the documents final, so don't call them final beforehand.
+
+> **Comments are open on both Google Docs.** That is the easiest way for people to respond, and it puts each comment next to the clause it is about. It also means anyone with the link can comment, since the links are on a public page. Watch for anything odd and tell Josh if you see it.
 
 ---
 
@@ -36,11 +46,11 @@ Most people will never check these, and that is fine. They exist so that if two 
 
 ## The process, in order
 
-### 1. Publish, before anyone is notified
+### 1. Check the pages before anyone is notified
 
-The documents go live on phtc.org.nz first, so that every link in the notice works the moment it lands. Nothing is worse than a governance email pointing at a 404.
+Already published, so this is a check rather than a task. Open both guide pages on a phone, tap through every link in the reference panel at the top, and confirm all three source documents open. Most committee members will read this on a phone.
 
-Check the page yourself on a phone before sending. Most committee members will open it on one.
+Confirm the two Google Docs open in **comment** mode for someone who is not you. Easiest test: open one in a private browsing window.
 
 ### 2. Send the notice to every committee member individually
 
@@ -57,6 +67,9 @@ One row per member, recording:
 - **Which version** they approved — record `v1.22 / 5617b6da2846`
 - Approve, approve with comments, or object
 - Their comments verbatim
+- Whether they also commented in the Google Doc
+
+That last column matters now that comments are enabled. Responses will arrive in two places, and a doc comment is easy to miss if you are only watching your inbox. Check both docs when you update the register.
 
 Recording the version matters more than it sounds. If the text changes after someone approves, their approval no longer covers the current document and they need to be asked again.
 
@@ -80,22 +93,23 @@ Fill in the bracketed parts. Keep it short — the explainers do the heavy lifti
 >
 > The PHTC constitution and bylaws are ready for committee approval. I need a yes or no from you by **[date]**.
 >
-> Everything is here: **[link]**
+> **Start here:** https://phtc.org.nz/reading-guide.html
 >
-> If you read nothing else, read these two things:
+> That covers the ten changes that matter most and takes about ten minutes. It links straight through to the constitution, the bylaws and the old CMBC constitution, so you can open any of them as you read.
 >
-> - The **reading guide**, which covers the ten changes that matter most. It takes about ten minutes.
-> - **Clause 3.2, the charitable purposes.** These define what the organisation is allowed to do and what Charities Services will register us against. They are much harder to change later, so this is the part we most need checked.
+> If you read nothing else, read **clause 3.2, the charitable purposes**. They define what the organisation is allowed to do and what Charities Services will register us against. They are much harder to change later, so this is the part we most need checked.
 >
-> There is also a comparison against the current CMBC constitution, setting out what the Incorporated Societies Act 2022 forced us to change and what we chose to change. The chosen ones are the ones worth arguing about.
+> There is also a comparison against the current CMBC constitution, setting out what the Incorporated Societies Act 2022 forced us to change and what we chose to change: https://phtc.org.nz/constitution-changes.html — the chosen ones are the ones worth arguing about.
 >
-> Reply to this email with one of:
+> **Comments are enabled** on the constitution and the bylaws, so you can comment directly on any clause. That is the easiest way, and it keeps each comment next to the text it is about.
+>
+> Whether or not you comment there, reply to this email with one of:
 >
 > - **Approve**
 > - **Approve with comments** — and the comments
 > - **Object** — and what would need to change
 >
-> Quote the clause number for anything specific, so comments can be tracked against the text.
+> If you comment in the doc rather than here, still reply with your overall position so I can record it.
 >
 > One item is still with our lawyer and is not holding up your approval: whether CMBC's simple-majority threshold for adopting the new constitution holds under the Incorporated Societies Act 2022.
 >
